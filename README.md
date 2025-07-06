@@ -53,7 +53,7 @@ The server listens for and emits the following events:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Sani-Mohibur/chat-backend.git](https://github.com/Sani-Mohibur/chat-backend.git)
+    git clone https://github.com/Sani-Mohibur/chat-backend.git
     cd chat-backend
     ```
 
