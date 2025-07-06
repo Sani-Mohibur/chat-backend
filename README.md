@@ -16,9 +16,9 @@ This is a **_real-time chat backend_** server for a chat application, built with
 * **WebSocket Server:** Establishes and manages real-time, bi-directional communication with clients using Socket.IO.
 * **Message Broadcasting:** Receives messages from one client and instantly broadcasts them to all other clients in the chat.
 * **User Activity Management:**
-  * Maintains a list of currently active users.
-  * Broadcasts updates when a new user joins.
-  * Notifies clients when a user disconnects.
+    * Maintains a list of currently active users.
+    * Broadcasts updates when a new user joins.
+    * Notifies clients when a user disconnects.
 * **"Typing" Indicator:** Relays typing status events between clients.
 * **CORS Enabled:** Configured with the `cors` middleware to allow requests from the frontend application running on a different origin.
 
