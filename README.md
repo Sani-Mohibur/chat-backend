@@ -1,6 +1,6 @@
 # Chat Backend
 
-This is a **_real-time chat backend_** server for a chat application, built with Node.js and Socket.IO. It manages user connections, broadcasts chat messages instantly to all connected clients, and saves chat history to a JSON file for persistence — all without using a database.
+This is a **_real-time chat backend_** server for a chat application, built with Node.js and Socket.IO. It manages user connections, broadcasts chat messages instantly to all connected clients, and saves chat history to a JSON file for persistence.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
