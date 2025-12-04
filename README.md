@@ -78,12 +78,12 @@ The server listens for and emits the following events:
     `Server is running on port 3000`
 
 The backend is now ready to accept connections from the `chat-frontend` application.
-
+<!--
 ## Live Server
 
 You can access the deployed backend server here:  
 https://chat-backend-production-35bd.up.railway.app
-
+-->
 ## Author
 
 **Mohibur Rahman Sani**  
